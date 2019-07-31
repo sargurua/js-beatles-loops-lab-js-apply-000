@@ -12,3 +12,10 @@ function johnLennonFacts(facts){
   return facts;
 }
   
+function iLoveTheBeatles(num){
+  ar = [];
+  do{
+    i++;
+    arr
+  } while (i < 15);
+}
