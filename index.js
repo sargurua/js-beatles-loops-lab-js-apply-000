@@ -1,9 +1,8 @@
 // add solution here
 function theBeatlesPlay(muscians, instruments){
-  var ar = []
+  var ar = [];
   for (var i = 0; i < muscians.length; i++){
-    ar[i] = muscians[i] + instruments[i]
+    ar[i] = muscians[i] + instruments[i];
   }
-  return ar
+  return ar;
   }
-}
